@@ -1,0 +1,14 @@
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/bin/Debug/net6.0/Data.deps.json
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/bin/Debug/net6.0/Data.runtimeconfig.json
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/bin/Debug/net6.0/Data.dll
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/bin/Debug/net6.0/ref/Data.dll
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/bin/Debug/net6.0/Data.pdb
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.csproj.AssemblyReference.cache
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.AssemblyInfoInputs.cache
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.AssemblyInfo.cs
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.csproj.CoreCompileInputs.cache
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.dll
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/ref/Data.dll
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.pdb
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/Data/obj/Debug/net6.0/Data.genruntimeconfig.cache

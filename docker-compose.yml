@@ -1,0 +1,32 @@
+version: "4.15"
+services:
+  rabbitmq3:
+    container_name: "rabbitmq"
+    image: rabbitmq:3.8-management-alpine
+    environment:
+      - RABBITMQ_DEFAULT_USER=myuser
+      - RABBITMQ_DEFAULT_PASS=mypassword
+    ports:
+      # AMQP protocol port
+      - "5672:5672"
+      # HTTP management UI
+      - "15672:15672"
+#   api:
+#     build:
+#       dockerfile: ./HashApi/Dockerfile
+#     environment:
+#       - "ConnectionString:HashApi=Server=db;Port=4000;Database=db;User=root;Password=Password1;SslMode=None;ConnectionReset=false;connect timeout=3600"
+#     ports:
+#       - 80:80
+#   db:
+#     image: mcr.microsoft.com/azure-sql-edge:1.0.4
+#     environment:
+#       ACCEPT_EULA: Y
+#       SA_PASSWORD: Password1
+#     ports:
+#       - 4000:1433
+#     volumes:
+#       - mssqldata:/var/opt/mssql
+
+# volumes:
+#   mssqldata:

@@ -1,0 +1,3 @@
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/out/Models.dll
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/out/Models.deps.json
+/Users/dhurimkelmendi/workspace/coding_challenges/rabbitmq_producer_consumer/out/Models.pdb
